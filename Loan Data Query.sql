@@ -1,3 +1,5 @@
+-- Code used to join tables together, and loop through to remove unwanted columns to support data collection, cleaning, and preprocessing.
+
 /*
 Create temp table to store joined data based on established keys.
 */
