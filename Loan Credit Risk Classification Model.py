@@ -3,6 +3,10 @@
 @author: Chase Tessier
 """
 
+'''
+Code creates a classification model to predict a credit risk code based on loan and collateral data. 
+'''
+
 
 import pandas as pd
 from sklearn.model_selection import train_test_split

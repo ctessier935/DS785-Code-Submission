@@ -3,6 +3,10 @@
 @author: Chase Tessier
 """
 
+'''
+Code gets basic statistics and correlation information to support presentation 3.
+'''
+
 import pandas as pd
 from scipy.stats import chi2_contingency
 
